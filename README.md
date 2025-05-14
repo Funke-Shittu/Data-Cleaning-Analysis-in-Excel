@@ -18,7 +18,7 @@ The project aimed to explore employee performance and productivity, providing in
 The primary dataset used for this analysis is the "employee_performance_and_productivity_data.csv" file, containing performance score, employee satisfaction score, work_hours_per_week, overtime_hours, project handled.
 
 ### Dashboard
-![Performance Dashboard](https://github.com/Funke-Shittu/Data-Cleaning-and-Analysis-in-Excel/blob/main/Performance_report.png?raw=true)
+![Performance Dashboard](https://github.com/Funke-Shittu/Data-Cleaning-and-Analysis-in-Excel/blob/main/Performance_report.png)
 
 
 ### Tools
@@ -55,3 +55,5 @@ IFS(S3>=4,"Very Satisfied",S3>=3,"Satisfied",S3<3,"Not Satisfied")`
 ### Recommendations
 - Consider why PhD holders and other degree holders do not perform as high as BSc. holders.
 - Encourage best practises from leadership to improve employee satisfaction.
+
+  🙂
