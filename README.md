@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
+- [Dashboard](#dashboard)
 - [Tools](#tools)
 - [Data Cleaning/Preparation](#datacleaning-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
@@ -15,6 +16,10 @@ The project aimed to explore employee performance and productivity, providing in
 
 ### Data Source
 The primary dataset used for this analysis is the "employee_performance_and_productivity_data.csv" file, containing performance score, employee satisfaction score, work_hours_per_week, overtime_hours, project handled.
+
+### Dashboard
+![Performance Dashboard](https://github.com/Funke-Shittu/Data-Cleaning-and-Analysis-in-Excel/blob/main/Performance_report.png)
+
 
 ### Tools
 - Power Query -Data Cleaning
