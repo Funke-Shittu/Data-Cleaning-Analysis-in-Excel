@@ -18,7 +18,7 @@ The project aimed to explore employee performance and productivity, providing in
 The primary dataset used for this analysis is the "employee_performance_and_productivity_data.csv" file, containing performance score, employee satisfaction score, work_hours_per_week, overtime_hours, project handled.
 
 ### Dashboard
-![Performance Dashboard](https://github.com/Funke-Shittu/Data-Cleaning-and-Analysis-in-Excel/blob/main/Performance_report.png)
+![Performance Dashboard](https://github.com/Funke-Shittu/Data-Cleaning-and-Analysis-in-Excel/blob/main/Performance_report.png?raw=true)
 
 
 ### Tools
