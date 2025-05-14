@@ -1,6 +1,14 @@
 # Data-Cleaning-Analysis-in-Excel
 
 ## Table of Contents
+- [Project Overview](#project-overview)
+- [Data Source](#data-source)
+- [Tools](#tools)
+- [Data Cleaning/Preparation](#datacleaning-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [ Data Analysis](#data-analysis)
+- [Findings](#findings)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 The project aimed to explore employee performance and productivity, providing insights into how well the employees are satisfied with their jobs and if the level of job satisfaction impact their output at work.
